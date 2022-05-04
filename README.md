@@ -2,7 +2,7 @@
 
 ## Nombre_Proyecto
 <P align="center">
-  <img src="https://github.com/jeya13/prueba_repositorio/blob/main/Logo/Logo.png" width="350"/>
+  <img src="https://github.com/jeya13/proyecto/commit/3c087fddbc0f5f712a5d17bff796129bcf6f18b7" width="350"/>
 </p>
 
 ## :heavy_check_mark: Objetivo General
