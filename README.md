@@ -14,6 +14,6 @@
 
 ## :snowflake: Alcance del Proyecto
 
-## :shipit: Justificación
+## :shipit: Justificación :smiling_imp:
 
 ![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
